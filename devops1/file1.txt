@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 this is my first file.i am changing its contents.
 
 
+||||||| merged common ancestors
+this is my first file
+
+=======
+this is my first file
+ feature 2 data
+>>>>>>> 9f9a2e1de72354207a5a4dac2a8740b55be8f837
