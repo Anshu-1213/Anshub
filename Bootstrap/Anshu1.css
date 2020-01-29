@@ -1,0 +1,78 @@
+.padding {
+
+  padding-top: 70px;
+  padding-bottom: 50px;
+}
+
+.anshu:hover .effect{
+  opacity: 1;
+  
+}
+.anshu{
+  position: relative;
+  /* margin-left:20px; */
+  
+  height: 300px;
+  width: 300px;
+  
+  
+}
+
+.effect {
+
+  color:blue;
+  font-size: 20px;
+  position:absolute;
+  opacity:0;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.rounded{
+  opacity: 1;
+}
+
+.images {
+  width: 100%;
+  margin: 0 auto;
+}
+
+
+.anshu:hover .rounded {
+  opacity: 0.5;
+  background-color: blue;
+}
+
+/* 
+.navbar .nav-item:not(:last-child) {
+  margin-right: 35px;
+} */
+
+.seprate{
+  margin-left: 900px;
+}
+.seprate a{
+  margin: 0px 0px;
+}
+
+.btn-secondary{
+  margin-left:67%;
+}
+/* 
+.image{
+  text-align: center;
+} */
+.dropdown:hover, .dropdown-item:hover {
+  background-color: royalblue;
+  color: white !important;
+}
+
+.nav-item:hover > .nav-link {
+  background-color: royalblue;;
+  color: white !important;
+}
+
+.dropdown:hover .dropdown-menu, .dropdown:hover .nav-link {
+  display: block;
+  color: white !important;
+}
